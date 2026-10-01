@@ -14,5 +14,8 @@
   },
   "dependencies": {
     "mongodb": "6.16.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.146.0"
   }
 }
